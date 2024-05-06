@@ -1,0 +1,17 @@
+body{
+    background-color: deeppink;
+    color: rgb(3, 49, 90);
+}
+
+.cabeçalho-imagem{
+    width: 10%;
+}
+
+.cabeçalho{
+    background-color: aqua;
+    color: navy;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
